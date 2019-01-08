@@ -1,0 +1,6 @@
+framework module CCGlad {
+  umbrella header "CCGlad.h"
+
+  export *
+  module * { export * }
+}
